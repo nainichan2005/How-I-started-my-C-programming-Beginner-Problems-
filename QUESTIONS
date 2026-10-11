@@ -1,0 +1,152 @@
+🟢 Level 1: Basic Input/Output
+Print "Hello, World!".
+Input two numbers and print their sum.
+Find the area of a rectangle.
+Convert Celsius to Fahrenheit.
+Swap two numbers using a third variable.
+Swap two numbers without using a third variable.
+Find the square and cube of a number.
+Find the average of three numbers.
+Convert days into years, months, and days.
+Find the ASCII value of a character.
+🟡 Level 2: Decision Making (if, else, switch)
+Check whether a number is even or odd.
+Find the largest of two numbers.
+Find the largest of three numbers.
+Check whether a year is a leap year.
+Check whether a character is a vowel or consonant.
+Check whether a character is uppercase, lowercase, digit, or special character.
+Find whether a number is positive, negative, or zero.
+Build a simple calculator using switch.
+Check whether a number is divisible by both 5 and 11.
+🟠 Level 3: Loops
+Print numbers from 1 to 100.
+Print even numbers from 1 to 100.
+Print odd numbers from 1 to 100.
+Print the multiplication table of a number.
+Find the sum of the first N natural numbers.
+Find the factorial of a number.
+Reverse a number.
+Check whether a number is a palindrome.
+Count the number of digits.
+Find the sum of digits.
+Find the product of digits.
+Find the first N Fibonacci numbers.
+Print all prime numbers between 1 and N.
+Check whether a number is prime.
+Find the GCD and LCM of two numbers.
+🔵 Level 4: Patterns
+*
+**
+***
+****
+*****
+*****
+****
+***
+**
+*
+1
+12
+123
+1234
+12345
+A
+AB
+ABC
+ABCD
+ABCDE
+    *   
+   ***   
+  *****  
+ ******* 
+*********
+1
+22
+333
+4444
+55555
+5
+54
+543
+5432
+54321
+🟣 Level 5: Functions
+Write a function to find the square of a number.
+Write a function to find the factorial.
+Write a function to check if a number is prime.
+Write a function to reverse a number.
+Write a function to find the largest of three numbers.
+Write a recursive function to calculate factorial.
+Write a recursive function to print Fibonacci numbers.
+Write a recursive function to find the sum of N natural numbers.
+🔴 Level 6: Arrays
+Find the largest element in an array.
+Find the smallest element.
+Calculate the sum of array elements.
+Calculate the average of array elements.
+Reverse an array.
+Search for an element (Linear Search).
+Sort an array in ascending order.
+Sort an array in descending order.
+Find the second largest element.
+Merge two arrays.
+🟤 Level 7: Strings
+Find the length of a string (without strlen()).
+Reverse a string.
+Check whether a string is a palindrome.
+Count vowels and consonants.
+Count words in a sentence.
+Copy one string to another without strcpy().
+Concatenate two strings without strcat().
+Compare two strings without strcmp().
+Convert lowercase to uppercase.
+Remove all spaces from a string.
+⚫ Level 8: Pointers
+Swap two numbers using pointers.
+Find the sum of array elements using pointers.
+Reverse an array using pointers.
+Print array elements using pointer arithmetic.
+Find the largest element using pointers.
+🔶 Level 9: Structures
+Store student details using a structure.
+Store employee information.
+Find the student with the highest marks.
+Store book details.
+Sort students based on marks.
+🔷 Level 10: File Handling
+Write text into a file.
+Read text from a file.
+Copy one file into another.
+Count the number of characters, words, and lines in a file.
+Append data to a file.
+🏆 Challenge Problems
+Armstrong number.
+Perfect number.
+Strong number.
+Happy number.
+Decimal to Binary conversion.
+Binary to Decimal conversion.
+Decimal to Octal conversion.
+Decimal to Hexadecimal conversion.
+Implement Bubble Sort.
+Implement Selection Sort.
+Implement Insertion Sort.
+Implement Binary Search.
+Matrix addition.
+Matrix multiplication.
+Matrix transpose.
+🎯 Challenge for You
+
+Try solving these 10 problems without looking at solutions:
+
+Reverse a number.
+Palindrome number.
+Prime number.
+Fibonacci series.
+Factorial using recursion.
+Bubble sort.
+Reverse a string without strrev().
+Linear search.
+Matrix multiplication.
+Binary search.
